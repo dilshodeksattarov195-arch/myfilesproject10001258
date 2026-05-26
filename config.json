@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentepdate",
+        "uuid": 3655748,
+        "checksum": "5ikfk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
